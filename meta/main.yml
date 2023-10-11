@@ -1,0 +1,18 @@
+galaxy_info:
+  role_name: final_publish_1
+  author: Astudio
+  description: with git
+  company: astudio
+  issue_tracker_url: github.com
+  license: Mit
+  min_ansible_version: '5.8'
+  min_ansible_container_version: '5.8'
+  github_branch: master
+  galaxy_tags:
+    - tag1
+    - tag2
+  platforms:
+    - name: Debian
+      versions:
+        - all
+dependencies: []
